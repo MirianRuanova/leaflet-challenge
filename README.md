@@ -4,6 +4,9 @@
 
 This project is a web-based visualization of daily earthquake data using Leaflet.js and D3.js. It plots earthquakes on a map based on their longitude and latitude, with the data being pulled from the USGS (United States Geological Survey) API in JSON format.
 
+![Earthquake Map](MAP.jpg)
+
+
 ## Features
 
 - The map displays earthquake markers, with the marker size reflecting the magnitude of the earthquake and the marker color indicating the depth of the earthquake.
