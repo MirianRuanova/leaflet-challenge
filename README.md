@@ -44,5 +44,3 @@ To view the earthquake visualization, simply open the `index.html` file in your 
 
 
 ---
-
-By following the steps in this project, you can create an interactive map visualization of earthquake data using Leaflet.js and D3.js. The README provides an overview of the project, its features, technologies used, and customization options. Remember to include any additional details or instructions specific to your implementation in your actual README file.
